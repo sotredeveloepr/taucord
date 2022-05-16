@@ -1,0 +1,2 @@
+# taucord
+Discord but Tauri
